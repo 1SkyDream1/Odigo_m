@@ -615,10 +615,6 @@ html.menu-open .menu__list {
   position: relative;
   color: #fff;
   background-size: cover;
-  width: 100vw;
-  min-height: 100vh;
-  top: 0;
-  left: 0;
 }
 
 .search-page::after {
